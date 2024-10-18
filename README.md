@@ -4,7 +4,8 @@
 
 ![Welcome!](./iyu.gif)
 
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">FRONT-END developer
+</h3>
 
 <br/>
 
